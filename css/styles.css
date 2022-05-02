@@ -26,7 +26,8 @@ body {
     text-decoration: none;
 }
 
-.header-logo, .logo-accent {
+.header-logo, 
+.logo-accent {
     font-family: Raleway, sans-serif;
     font-style: normal;
     font-weight: 700;
