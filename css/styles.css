@@ -21,6 +21,21 @@ body {
     letter-spacing: 0.03em;
 }
 
+.header-logo {
+    color: var(--main-color);
+    text-decoration: none;
+}
+
+.header-logo, .logo-accent {
+    font-family: Raleway, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+}
+
+
 .header{
     /* top line bg */
 position: absolute;
