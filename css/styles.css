@@ -12,6 +12,7 @@
     --fottr-tel-mail-color: rgba(255,255,255,0.6)
 }
 
+
 body {
     font-family: "Roboto", 'sans-serif';
     background-color: var(--header-color);
