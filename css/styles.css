@@ -89,7 +89,6 @@ img {
     padding-bottom: 94px;
 }
 
-/*-----------------header body-------*/ 
 .header {
     border-bottom: 1px solid #ECECEC;
 }
@@ -159,8 +158,6 @@ img {
     color: var(--link-color);
 }
 
-/*------header contacts-------*/
-
 .header-contact {
     display: flex;
     justify-content: end;
@@ -204,7 +201,6 @@ img {
     color: var(--link-color);
 }
 
-/*-------------main body member line--------*/
 .section-member {
     background-color: var(--member-background-color);
     text-align: center;
@@ -239,8 +235,6 @@ img {
     background-color: var(--main-button-color);
 }
 
-/*-------------main body advantages line--------*/
-
 .adv-list {
     display: flex;
     flex-wrap: wrap;
@@ -271,8 +265,6 @@ img {
     line-height: 1.7;
 }
 
-/* --------------main body works line------*/
-
 .section-works {
     padding-top: 0px;
 }
@@ -298,8 +290,6 @@ img {
     text-align: center;
     color: var(--title-text-color);
 }
-
-/* --------------main body team line------*/
 
 .section-team {
     background-color: var(--team-background-color);
@@ -329,6 +319,17 @@ img {
     border-bottom-right-radius: 4px;
 }
 
+.portfolio-cards {
+    width: 370px;
+    padding: 20px 24px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #EEEEEE;
+    border-left: 1px solid #EEEEEE;
+    border-right: 1px solid #EEEEEE;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
 .team-title {
     margin-bottom: 50px;
     font-weight: 700;
@@ -353,13 +354,7 @@ img {
     text-align: center;    
 }
 
-/*-------------footer----------*/
 
-.footer {
-    background-color: var(--footer-background-color);
-    padding-bottom: 60px;
-    padding-top: 60px;
-}
 
 .footer-link-logo {
     text-decoration: none;
@@ -501,13 +496,8 @@ img {
     margin-bottom: 0;
 }
 
-.portfolio-cards {
-    width: 370px;
-    padding: 20px 24px;
-    background-color: #ffffff;
-    border-bottom: 1px solid #EEEEEE;
-    border-left: 1px solid #EEEEEE;
-    border-right: 1px solid #EEEEEE;
-    border-bottom-left-radius: 3px;
-    border-bottom-right-radius: 3px;
+.footer {
+    background-color: var(--footer-background-color);
+    padding-bottom: 60px;
+    padding-top: 60px;
 }
