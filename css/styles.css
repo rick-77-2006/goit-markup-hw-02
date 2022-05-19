@@ -89,7 +89,6 @@ img {
     padding-bottom: 94px;
 }
 
-/*-----------------header body-------*/ 
 .header {
     border-bottom: 1px solid #ECECEC;
 }
@@ -204,7 +203,6 @@ img {
     color: var(--link-color);
 }
 
-/*-------------main body member line--------*/
 .section-member {
     background-color: var(--member-background-color);
     text-align: center;
@@ -239,8 +237,6 @@ img {
     background-color: var(--main-button-color);
 }
 
-/*-------------main body advantages line--------*/
-
 .adv-list {
     display: flex;
     flex-wrap: wrap;
@@ -271,8 +267,6 @@ img {
     line-height: 1.7;
 }
 
-/* --------------main body works line------*/
-
 .section-works {
     padding-top: 0px;
 }
@@ -298,8 +292,6 @@ img {
     text-align: center;
     color: var(--title-text-color);
 }
-
-/* --------------main body team line------*/
 
 .section-team {
     background-color: var(--team-background-color);
@@ -352,8 +344,6 @@ img {
     line-height: 1.18;
     text-align: center;    
 }
-
-/*-------------footer----------*/
 
 .footer {
     background-color: var(--footer-background-color);
@@ -419,9 +409,6 @@ img {
     color: var(--link-color);
 }
 
-
-/*-------------PORTFOLIO--------*/
-
 .services {
     padding-top: 97px;
     padding-bottom: 104px;
@@ -464,8 +451,6 @@ img {
 .services-buttom-item:last-child {
     margin: 0;
 }
-
-/*-------------portfolio services------*/
 
 .sevices-title {
     margin-bottom: 4px;
